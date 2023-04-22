@@ -3,7 +3,7 @@
 <h2>Instalação</h2>
 <ol>
   <li>Clone o repositório:
-    <pre><code>git clone https://github.com/seu-usuario/seu-projeto.git</code></pre>
+    <pre><code>git clone https://github.com/sirwez/Company-CRUD</code></pre>
   </li>
   <li>Instale as dependências:
     <pre><code>composer install
